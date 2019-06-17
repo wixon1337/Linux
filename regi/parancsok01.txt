@@ -1,0 +1,9 @@
+cat allat.txt
+macska
+kutya
+egér
+veréb
+gólya
+galamb
+ló
+sort allat.txt > rend01.txt
